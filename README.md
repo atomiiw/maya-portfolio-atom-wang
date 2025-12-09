@@ -6,7 +6,7 @@ This repository contains three Maya exercises demonstrating my current skills in
 
 ## Bouncing Ball
 
-**File:** `maya_bouncing_ball.mp4`
+[▶ Watch Video](maya_bouncing_ball.mp4)
 
 Focus areas:
 - Keyframe animation
@@ -20,7 +20,7 @@ This exercise was used to study basic physics, squash and stretch, and clean mot
 
 ## Walk Cycle
 
-**File:** `maya_walk_cycle.mp4`
+[▶ Watch Video](maya_walk_cycle.mp4)
 
 Focus areas:
 - Character animation
@@ -34,7 +34,7 @@ A simple rigged character is animated to walk, demonstrating rhythm, body mechan
 
 ## Modeling Showreel
 
-**File:** `maya_modeling_showreel.mp4`
+[▶ Watch Video](maya_modeling_showreel.mp4)
 
 Focus areas:
 - Mesh modeling
