@@ -4,7 +4,7 @@ This repository contains three Maya exercises demonstrating my current skills in
 
 ---
 
-## 1) Bouncing Ball
+## Bouncing Ball
 
 **File:** `maya_bouncing_ball.mp4`
 
@@ -18,7 +18,7 @@ This exercise was used to study basic physics, squash and stretch, and clean mot
 
 ---
 
-## 2) Walk Cycle
+## Walk Cycle
 
 **File:** `maya_walk_cycle.mp4`
 
@@ -32,7 +32,7 @@ A simple rigged character is animated to walk, demonstrating rhythm, body mechan
 
 ---
 
-## 3) Modeling Showreel
+## Modeling Showreel
 
 **File:** `maya_modeling_showreel.mp4`
 
